@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="SSGenerator.css">
+    </head>
+    <body>
+        <h1>Enter your number/email</h1><br/>
+
+        <input type="text" id="ssName" name="ssName" placeholder="Jane Doe">
+        <input type="text" id="ssEmail" name="ssEmail" placeholder="JaneDoe@email.com">
+        <br/><br/><br/>
+        <button class="baseButtons" id="getGiftee">Get your giftee</button>
+
+        <div id="gifteeName">
+            
+        </div>
+    </body>
+    <script src="runGenerator.js"></script>
+</html>
