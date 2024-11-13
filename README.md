@@ -3,6 +3,7 @@
 
 # <p align="center">Development</p>
 [Secret Santa Generator]()
-Secret Santa generator using ...
+<br>
+Secret Santa generator using HTML and Javasctipt including wireframes
   
 # <p align="center">UX/UI</p>
