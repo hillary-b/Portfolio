@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+    width: 100vw;
+}
+
+body{
+    background-color: #7A7265;
+    color: #C0B7B1;
+    text-align: center;
+    margin: 10%;
+}
+
+input{
+    background-color: #C0B7B1;
+    color: #433E3F;
+    padding: 0.5%;
+}
+
+button{
+    border-radius: 12px;
+    padding: 0.5%;
+    width: 10%;  
+}
+
+#submitName{
+    color: #C0B7B1;
+    background-color: #433E3F;
+}
+
+.baseButtons{
+    color: #433E3F;
+    background-color: #C69C72;
+}
+
+#bottomButtons{
+    bottom: 100%;
+}
+
+ul{
+    list-style-type: none;
+}
