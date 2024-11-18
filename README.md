@@ -7,3 +7,6 @@
 Secret Santa generator using HTML and Javasctipt
   
 # <p align="center">UX/UI</p>
+[Secret Santa Generator}()
+<br>
+Enhanced wireframes for the Secret Santa generator
