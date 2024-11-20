@@ -19,7 +19,7 @@ Anagram identifier written in Python
 <br>
   
 # <p align="center">UX/UI</p>
-[Secret Santa Generator](https://github.com/hillary-b/Portfolio/tree/5ee7bb5aba14fc1634d86bbeef1bfd7d9b7daca7/Secret%20Santa%20Generator%20Portfolio)
+[Secret Santa Generator]([https://github.com/hillary-b/Portfolio/tree/5ee7bb5aba14fc1634d86bbeef1bfd7d9b7daca7/Secret%20Santa%20Generator%20Portfolio](https://github.com/hillary-b/Portfolio/tree/31751e2c7b5cd82ec1b1aee4baa3f822092ca857/Secret%20Santa%20Portfolio))
 <br>
 Enhanced wireframes for the Secret Santa generator
 <br>
