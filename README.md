@@ -24,6 +24,6 @@ Anagram identifier written in Python
 Enhanced wireframes for the Secret Santa generator
 <br>
 <br>
-[Costcutter](https://github.com/hillary-b/Portfolio/tree/9a411e080bbbfc6e96035ebf1bc011f8d63bf246/Costcutter%20Portfolio)
+[Costcutter]([https://github.com/hillary-b/Portfolio/tree/9a411e080bbbfc6e96035ebf1bc011f8d63bf246/Costcutter%20Portfolio](https://github.com/hillary-b/Portfolio/tree/0dd36e751e2dbc39e5fd5b31c0a1e893ca226ba8/Costcutter%20Portfolio))
 <br>
 Portfolio for Costcutter app idea
